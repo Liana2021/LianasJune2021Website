@@ -72,6 +72,6 @@ highlight_name: false
 
 I am a Māori (Ngāti Kuia, Rangitāne o Wairau, Ngāti Koata) scholar who draws from sociological and philosophical perspectives in education. My research interests include: 1) settler colonialism and structural racism in schools, 2) land education as a means of decolonial transformation for redefining race relations, and 3) curriculum development through school-iwi partnerships.
 
-I was a secondary school English and Social Studies teacher for 11 years and am currently a Lecturer in the Faculty of Education at Victoria University of Wellington. Before I was a postdoctoral research fellow for a Marsden project: He Taonga te Wareware: Remembering and Forgetting New Zealand’s Colonial Past.
+I was a secondary school English and Social Studies teacher for 11 years and am currently a Lecturer in the Faculty of Education at Victoria University of Wellington. Before I was a postdoctoral research fellow for a Marsden project: *He Taonga te Wareware: Remembering and Forgetting New Zealand’s Colonial Past*.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
