@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Māori (Ngāti Kuia, Rangitāne o Wairau, Ngāti Koata) scholar who draws from sociological and philosophical perspectives in education. My research interests include: 1) settler colonialism and structural racism in schools, 2) land education as a means of decolonial transformation for redefining race relations, and 3) curriculum development through school-iwi partnerships.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I was a secondary school English and Social Studies teacher for 11 years and am currently a Lecturer in the Faculty of Education at Victoria University of Wellington. Before I was a postdoctoral research fellow for a Marsden project: He Taonga te Wareware: Remembering and Forgetting New Zealand’s Colonial Past.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
