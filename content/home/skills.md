@@ -16,16 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+  icon: nakala
   icon_pack: fab
   name: R
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: statistics
+  icon: orcid
   icon_pack: fas
   name: Photography
 
