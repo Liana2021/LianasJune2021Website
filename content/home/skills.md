@@ -16,7 +16,8 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  icon: nakala
+- description:
+  icon: 
   icon_pack: fab
   name: R
 - description: 100%
@@ -24,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: statistics
-  icon: orcid
+  icon: 
   icon_pack: fas
   name: Photography
 
