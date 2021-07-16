@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: He Taonga te Wareware: Remembering and Forgetting Difficult Histories in Aotearoa New Zealand
+summary: How do New Zealanders remember and forget difficult events in the colonial past? Why are some conflicts publicly remembered while others are forgotten or overlooked? And who decides?
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
