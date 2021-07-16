@@ -14,26 +14,29 @@ organizations:
   url: https://www.wgtn.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Decolonial education informed by race, whiteness and settler colonialism 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+-	Race, whiteness and settler colonialism in education
+-	Indigenous education philosophy and sociology
+-	Indigenous youth studies
+-	Teacher education
+-	Social Sciences (Geography, History) and English curriculum
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Education
+    institution: Wellington University of Wellington
+    year: 2019
+  - course: Master of Education
+    institution: Wellington University of Wellington
+    year: 2011
+  - course: Graduate Diploma in Teaching (Registered secondary school teacher)
+    institution: Wellington College of Education
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +73,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a Māori scholar (Ngāti Kuia, Rangitāne o Wairau, Ngāti Koata) lecturer at the School of Education at Victoria University of Wellington. I draw from sociological and philosophical perspectives in my work focussing on decolonial transformation in education. My research interests include land education and settler colonialism and structural racism in schools.
+I am a Māori scholar (Ngāti Kuia, Rangitāne o Wairau, Ngāti Koata) at the School of Education at Victoria University of Wellington. I draw from sociological and philosophical perspectives in my work focussing on decolonial transformation in education. My research interests include land education and settler colonialism and structural racism in schools.
 
-I was a secondary school English and Social Studies teacher for 11 years before pursuing postdoctoral study . Before I was a postdoctoral research fellow for a Marsden project: *He Taonga te Wareware: Remembering and Forgetting New Zealand’s Colonial Past*.
+I was a secondary school English and Social Studies teacher for 11 years before pursuing postdoctoral study focussing on Māori education, institutional racism and silencing. Afterwards, I was a postdoctoral research fellow for a Marsden project: *He Taonga te Wareware: Remembering and Forgetting New Zealand’s Colonial Past*.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
