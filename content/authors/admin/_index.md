@@ -18,11 +18,11 @@ bio: Decolonial education informed by race, whiteness and settler colonialism
 
 # Interests to show in About widget
 interests:
--	Race, whiteness and settler colonialism in education
--	Indigenous education philosophy and sociology
--	Indigenous youth studies
--	Teacher education
--	Social Sciences (Geography, History) and English curriculum
+ -	Race, whiteness and settler colonialism in education
+ -	Indigenous education philosophy and sociology
+ -	Indigenous youth studies
+ -	Teacher education
+ -	Social Sciences (Geography, History) and English curriculum
 
 
 # Education to show in About widget
