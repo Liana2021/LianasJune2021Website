@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Teaching iwi and Kiwi histories in the Marlborough region
+title: Projects
 subtitle: ''
 
 content:
@@ -48,7 +48,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-
-Introduce the aims of the research
-
-Introduce those involved
