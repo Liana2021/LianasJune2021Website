@@ -52,12 +52,7 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=swQnINoAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -77,4 +72,4 @@ I am a Māori scholar (Ngāti Kuia, Rangitāne o Wairau, Ngāti Koata) at the Sc
 
 I was a secondary school English and Social Studies teacher for 11 years before pursuing postdoctoral study focussing on Māori education, institutional racism and silencing. Afterwards, I was a postdoctoral research fellow for a Marsden project: *He Taonga te Wareware: Remembering and Forgetting New Zealand’s Colonial Past*.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
