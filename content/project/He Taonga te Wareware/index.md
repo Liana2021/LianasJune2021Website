@@ -1,5 +1,5 @@
 ---
-title: He Taonga te Wareware: Remembering and Forgetting Difficult Histories in Aotearoa New Zealand
+title: He Taonga te Wareware? Remembering and Forgetting Difficult Histories in Aotearoa New Zealand
 summary: How do New Zealanders remember and forget difficult events in the colonial past? Why are some conflicts publicly remembered while others are forgotten or overlooked? And who decides?
 tags:
 - Deep Learning
